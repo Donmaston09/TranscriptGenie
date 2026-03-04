@@ -1,6 +1,0 @@
-streamlit
-youtube-transcript-api
-openai-whisper
-python-docx
-yt-dlp
-torch
